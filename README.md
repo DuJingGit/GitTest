@@ -1,2 +1,2 @@
-# UserSpringJpa
-Jpa and shiro project
+# GitTest
+gitTest
